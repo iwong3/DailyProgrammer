@@ -1,3 +1,12 @@
+/**
+ * Challenge #149 from Reddit
+ * http://www.reddit.com/r/dailyprogrammer
+ * 
+ * @author Ivan Wong
+ * @date 7/22/2014
+ */
+
+
 import java.util.Scanner;
 
 public class Challenge149 {
